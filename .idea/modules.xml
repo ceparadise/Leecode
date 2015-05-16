@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://E:/CLP/scripts/Chinese_language_Process/.idea/New folder.iml" filepath="E:/CLP/scripts/Chinese_language_Process/.idea/New folder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leecode.iml" filepath="$PROJECT_DIR$/.idea/leecode.iml" />
+      <module fileurl="file://E:/untitled/.idea/untitled.iml" filepath="E:/untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>
